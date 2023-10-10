@@ -282,12 +282,12 @@ button:hover {
   font-size: 18px;
   width: 1000px;
   height: 45px;
-  background-color: rgb(20, 20, 218);
+  background-color: rgb(37, 37, 177);
   position: absolute;
   left: 0;
   /* top: 50%; */
   transform: translateY(-50%);
-  animation: moveRight 20s linear infinite; /* 4s duration, linear timing function, infinite loop */
+  animation: moveRight 120s linear infinite; /* 4s duration, linear timing function, infinite loop */
 }
 
 @keyframes moveRight {
